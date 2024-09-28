@@ -41,7 +41,7 @@ The **Dojo Blog** is a simple blogging platform built using **React**. It allows
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/dojo-blog.git
+   git clone https://github.com/ZakariaMerghmi/dojo-blog.git
 
 
 ### `npm run build` fails to minify
