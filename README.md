@@ -42,7 +42,13 @@ The **Dojo Blog** is a simple blogging platform built using **React**. It allows
 1. Clone the repository.
    ```bash
    git clone https://github.com/ZakariaMerghmi/dojo-blog.git
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact (mailto:merghmizakaria@gmail.com).
 
 ### `npm run build` fails to minify
 
