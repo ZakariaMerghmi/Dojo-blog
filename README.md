@@ -33,7 +33,7 @@ The **Dojo Blog** is a simple blogging platform built using **React**. It allows
 ![Create Post](./screenshots/create-post.png)
 
 ### Blog Details Page
-![Blog Details](./screenshots/blog-details.png)
+![details](https://github.com/user-attachments/assets/2b415d84-aa8e-4bbd-94fb-57be3b30316c)
 
 *Note: Add screenshots to a `/screenshots` folder in your project, and reference them in the README like above.*
 
