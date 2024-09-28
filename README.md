@@ -27,7 +27,7 @@ The **Dojo Blog** is a simple blogging platform built using **React**. It allows
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home-page.png)
+![home](https://github.com/user-attachments/assets/e03cb8eb-97c7-4dd1-8e43-3d914b2e2bb8)
 
 ### Create Post Page
 ![Create Post](./screenshots/create-post.png)
