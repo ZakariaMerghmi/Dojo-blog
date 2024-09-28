@@ -30,7 +30,7 @@ The **Dojo Blog** is a simple blogging platform built using **React**. It allows
 ![home](https://github.com/user-attachments/assets/e03cb8eb-97c7-4dd1-8e43-3d914b2e2bb8)
 
 ### Create Post Page
-![Create Post](./screenshots/create-post.png)
+![new-blog](https://github.com/user-attachments/assets/353b2fbe-2083-4d27-968f-1f3698e60cea)
 
 ### Blog Details Page
 ![details](https://github.com/user-attachments/assets/2b415d84-aa8e-4bbd-94fb-57be3b30316c)
